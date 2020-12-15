@@ -11,3 +11,7 @@ This project has been deployed to GitHub and GitHub Pages.
 ### Project Features: 
 * A simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 * It uses the library [Moment.js](https://momentjs.com/) to work with dates and times.
+
+![intro](https://github.com/RAJBrowder/RB_05_APIs/blob/main/img/intro.png)
+
+![demo](https://github.com/RAJBrowder/RB_05_APIs/blob/main/img/demo.png)
